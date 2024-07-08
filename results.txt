@@ -1,0 +1,5 @@
+shubham,1000
+shubham,800
+satyam,3000
+satyam,1000
+satyam,500
